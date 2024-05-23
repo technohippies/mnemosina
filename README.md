@@ -1,3 +1,12 @@
+🧠🎗️ | Mnemosina | Mnemosina | 므네모시네 | ムネモシュネ
+
+Superci'edai do cnita | Memory Superpowers | Superpowers for your memory | 記憶力のスーパーパワー
+
+- [中文](README.md) (Default)
+- [English](README.en.md)
+- [한국어](README.ko.md)
+- [日本語](README.ja.md)
+
 谟涅摩叙涅 = Anki + 卡拉OK + AI，具有抖音界面
 
 组成部分：
